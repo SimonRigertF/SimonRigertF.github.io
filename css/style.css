@@ -39,6 +39,7 @@ ul{
     list-style-type: none;
 }
 .menu-principal{
+    margin-left: 3%;
     width: 50%;
 }
 li{
